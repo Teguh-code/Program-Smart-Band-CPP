@@ -9,7 +9,8 @@ IoT : Smart Band
 Link Youtube : https://youtu.be/XYfYflTYXEQ
 
 Deskripsi Program
-Smartband adalah perangkat wearable yang memiliki fungsi sebagai fitness tracker atau pelacak kesehatan bagi anda yang ingin meningkatkan level kebugaran. Smartband atau fitness tracker khusus dirancang untuk kebugaran dan kesehatan pengguna. Smartband umumnya dilengkapi sensor untuk mengetahui jarak tempuh, jumlah kalori, detak jantung hingga sistem belanja otomatis di perjalanan dengan fitur NFC. Pada program ini, kami membuat prototipe dari Smartband yang menyediakan fitur menunjukkan waktu sekarang, deteksi detak jantung, stopwatch, belanja online cepat, penghitung jumlah kalori serta penghitung langkah per meter. 
+Smartband adalah perangkat wearable yang memiliki fungsi sebagai fitness tracker atau pelacak kesehatan bagi anda yang ingin meningkatkan level kebugaran. Smartband atau fitness tracker khusus dirancang untuk kebugaran dan kesehatan pengguna. Smartband umumnya dilengkapi sensor untuk mengetahui jarak tempuh, jumlah kalori, detak jantung hingga sistem belanja otomatis di perjalanan dengan fitur NFC. Pada program ini, kami membuat prototipe dari Smartband yang menyediakan fitur menunjukkan waktu sekarang, deteksi detak jantung, stopwatch, belanja online cepat, penghitung jumlah kalori serta penghitung langkah per meter.
+
 Catatan : Karena masih belum mempunyai sensor-sensor untuk mengetahui beberapa hal dan tidak bisa terhubung dengan internet secara langsung, maka kami menggunakan program alternatif untuk sementara menggantikan sensor dan internet tersebut.
 
 Tampilan Menu - Teguh
